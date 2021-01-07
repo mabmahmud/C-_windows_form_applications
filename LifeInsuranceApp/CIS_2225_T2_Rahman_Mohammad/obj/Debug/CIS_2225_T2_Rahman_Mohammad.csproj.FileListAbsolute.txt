@@ -1,0 +1,10 @@
+C:\Users\mabma\source\repos\LifeInsuranceApp\CIS_2225_T2_Rahman_Mohammad\obj\Debug\CIS_2225_T2_Rahman_Mohammad.csprojAssemblyReference.cache
+C:\Users\mabma\source\repos\LifeInsuranceApp\CIS_2225_T2_Rahman_Mohammad\obj\Debug\CIS_2225_T2_Rahman_Mohammad.frmCalculateCommission.resources
+C:\Users\mabma\source\repos\LifeInsuranceApp\CIS_2225_T2_Rahman_Mohammad\obj\Debug\CIS_2225_T2_Rahman_Mohammad.Properties.Resources.resources
+C:\Users\mabma\source\repos\LifeInsuranceApp\CIS_2225_T2_Rahman_Mohammad\obj\Debug\CIS_2225_T2_Rahman_Mohammad.csproj.GenerateResource.cache
+C:\Users\mabma\source\repos\LifeInsuranceApp\CIS_2225_T2_Rahman_Mohammad\obj\Debug\CIS_2225_T2_Rahman_Mohammad.csproj.CoreCompileInputs.cache
+C:\Users\mabma\source\repos\LifeInsuranceApp\CIS_2225_T2_Rahman_Mohammad\bin\Debug\CIS_2225_T2_Rahman_Mohammad.exe.config
+C:\Users\mabma\source\repos\LifeInsuranceApp\CIS_2225_T2_Rahman_Mohammad\bin\Debug\CIS_2225_T2_Rahman_Mohammad.exe
+C:\Users\mabma\source\repos\LifeInsuranceApp\CIS_2225_T2_Rahman_Mohammad\bin\Debug\CIS_2225_T2_Rahman_Mohammad.pdb
+C:\Users\mabma\source\repos\LifeInsuranceApp\CIS_2225_T2_Rahman_Mohammad\obj\Debug\CIS_2225_T2_Rahman_Mohammad.exe
+C:\Users\mabma\source\repos\LifeInsuranceApp\CIS_2225_T2_Rahman_Mohammad\obj\Debug\CIS_2225_T2_Rahman_Mohammad.pdb
