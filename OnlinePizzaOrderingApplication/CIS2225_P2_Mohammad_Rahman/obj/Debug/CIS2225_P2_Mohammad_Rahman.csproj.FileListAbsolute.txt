@@ -1,0 +1,11 @@
+C:\Users\mabma\source\repos\CIS2225_P2_Mohammad_Rahman\CIS2225_P2_Mohammad_Rahman\bin\Debug\CIS2225_P2_Mohammad_Rahman.exe.config
+C:\Users\mabma\source\repos\CIS2225_P2_Mohammad_Rahman\CIS2225_P2_Mohammad_Rahman\bin\Debug\CIS2225_P2_Mohammad_Rahman.exe
+C:\Users\mabma\source\repos\CIS2225_P2_Mohammad_Rahman\CIS2225_P2_Mohammad_Rahman\bin\Debug\CIS2225_P2_Mohammad_Rahman.pdb
+C:\Users\mabma\source\repos\CIS2225_P2_Mohammad_Rahman\CIS2225_P2_Mohammad_Rahman\obj\Debug\CIS2225_P2_Mohammad_Rahman.csprojAssemblyReference.cache
+C:\Users\mabma\source\repos\CIS2225_P2_Mohammad_Rahman\CIS2225_P2_Mohammad_Rahman\obj\Debug\CIS2225_P2_Mohammad_Rahman.frmOrderSystem.resources
+C:\Users\mabma\source\repos\CIS2225_P2_Mohammad_Rahman\CIS2225_P2_Mohammad_Rahman\obj\Debug\CIS2225_P2_Mohammad_Rahman.Properties.Resources.resources
+C:\Users\mabma\source\repos\CIS2225_P2_Mohammad_Rahman\CIS2225_P2_Mohammad_Rahman\obj\Debug\CIS2225_P2_Mohammad_Rahman.csproj.GenerateResource.cache
+C:\Users\mabma\source\repos\CIS2225_P2_Mohammad_Rahman\CIS2225_P2_Mohammad_Rahman\obj\Debug\CIS2225_P2_Mohammad_Rahman.csproj.CoreCompileInputs.cache
+C:\Users\mabma\source\repos\CIS2225_P2_Mohammad_Rahman\CIS2225_P2_Mohammad_Rahman\obj\Debug\CIS2225_P2_Mohammad_Rahman.exe
+C:\Users\mabma\source\repos\CIS2225_P2_Mohammad_Rahman\CIS2225_P2_Mohammad_Rahman\obj\Debug\CIS2225_P2_Mohammad_Rahman.pdb
+C:\Users\mabma\source\repos\CIS2225_P2_Mohammad_Rahman\CIS2225_P2_Mohammad_Rahman\obj\Debug\CIS2225_P2_Mohammad_Rahman.frmSummary.resources
