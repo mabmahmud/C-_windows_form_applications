@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\CIS2225_A1_Rahman_Mohammad\CIS2225_A1_Rahman_Mohammad\obj\Debug\CIS2225_A1_Rahman_Mohammad.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\CIS2225_A1_Rahman_Mohammad\CIS2225_A1_Rahman_Mohammad\obj\Debug\CIS2225_A1_Rahman_Mohammad.Form1.resources
+C:\Users\PC\source\repos\CIS2225_A1_Rahman_Mohammad\CIS2225_A1_Rahman_Mohammad\obj\Debug\CIS2225_A1_Rahman_Mohammad.Properties.Resources.resources
+C:\Users\PC\source\repos\CIS2225_A1_Rahman_Mohammad\CIS2225_A1_Rahman_Mohammad\obj\Debug\CIS2225_A1_Rahman_Mohammad.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\CIS2225_A1_Rahman_Mohammad\CIS2225_A1_Rahman_Mohammad\obj\Debug\CIS2225_A1_Rahman_Mohammad.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CIS2225_A1_Rahman_Mohammad\CIS2225_A1_Rahman_Mohammad\bin\Debug\CIS2225_A1_Rahman_Mohammad.exe.config
+C:\Users\PC\source\repos\CIS2225_A1_Rahman_Mohammad\CIS2225_A1_Rahman_Mohammad\bin\Debug\CIS2225_A1_Rahman_Mohammad.exe
+C:\Users\PC\source\repos\CIS2225_A1_Rahman_Mohammad\CIS2225_A1_Rahman_Mohammad\bin\Debug\CIS2225_A1_Rahman_Mohammad.pdb
+C:\Users\PC\source\repos\CIS2225_A1_Rahman_Mohammad\CIS2225_A1_Rahman_Mohammad\obj\Debug\CIS2225_A1_Rahman_Mohammad.exe
+C:\Users\PC\source\repos\CIS2225_A1_Rahman_Mohammad\CIS2225_A1_Rahman_Mohammad\obj\Debug\CIS2225_A1_Rahman_Mohammad.pdb
